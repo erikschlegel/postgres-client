@@ -1,7 +1,7 @@
 {
   "name": "postgres-client",
   "author": "Erik Schlegel <erik.schlegel@gmail.com>",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "node": "4.4.x"
   },
