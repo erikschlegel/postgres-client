@@ -1,0 +1,14 @@
+{
+  "name": "postgres-client",
+  "author": "Erik Schlegel <erik.schlegel@gmail.com>",
+  "version": "1.0.0",
+  "engines": {
+    "node": "4.4.x"
+  },
+  "main": "index.js",
+  "description": "Facebook messsage extractor",
+  "license": "MIT",
+  "dependencies": {
+    "pg": "^6.1.0"
+  }
+}
